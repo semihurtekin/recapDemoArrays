@@ -29,7 +29,7 @@ public class Main {
             }
         }
         System.out.println("THE BIGGEST NUMBER IS ==> " + theBiggest);
-    
+
     }
 
 }
